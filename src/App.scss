@@ -1,0 +1,77 @@
+h1 {
+  font-size: 4rem;
+}
+h2 {
+  font-size: 2.5rem;
+}
+h3 {
+  font-size: 2rem;
+}
+
+.dev {
+  border: 1px solid red;
+}
+
+.App {
+  background: url('./asset//img/header-background.jpg');
+  height: 80vh;
+  padding: 3rem;
+  color: white;
+
+  display: flex;
+  align-items: center;
+
+  .header-01 {
+    display: flex;
+    align-items: center;
+  }
+
+  h1 {
+    margin: 0rem;
+  }
+  img {
+    width: 100px;
+    margin-left: 2rem;
+  }
+  p {
+    font-size: 1.5rem;
+  }
+  
+}
+
+.description {
+  padding: 6rem;
+}
+
+.section-01 {
+  h3 {
+    color: #6C25FF;
+  }
+}
+
+.section-02 {
+  h3 {
+    color: #05CDDD;
+  }
+}
+
+
+.closing {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+
+  background-color: #1B95FD;
+  color: white;
+
+  padding: 4rem;
+
+  img {
+    width: 100px;
+  }
+
+  footer {
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+  }
+}
