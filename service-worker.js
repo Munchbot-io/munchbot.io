@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/munchbot.io/precache-manifest.d5090321d1802615dfa7635ff7f8ce75.js"
+  "/munchbot.io/precache-manifest.465e221ae00061dd791f152a1ac04c2a.js"
 );
 
 self.addEventListener('message', (event) => {
