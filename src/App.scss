@@ -20,11 +20,8 @@ h3 {
 
   display: flex;
   align-items: center;
-
-  .header-01 {
-    display: flex;
-    align-items: center;
-  }
+  justify-content: center;
+  flex-direction: column;
 
   h1 {
     margin: 0rem;
@@ -44,12 +41,29 @@ h3 {
 }
 
 .section-01 {
+  display: flex;
+  align-items: center;
+
+  .section-01-desc {
+    margin: 0rem 4rem;
+    width: 40vw;
+  }
   h3 {
     color: #6C25FF;
   }
 }
 
 .section-02 {
+  display: flex;
+  align-items: center;
+
+  .section-02-desc {
+    margin: 0rem 4rem;
+    width: 40vw;
+  }
+  img {
+    width: 400px;
+  }
   h3 {
     color: #05CDDD;
   }
