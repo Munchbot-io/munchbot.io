@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c7a72fdbedaca8848e35688c9ae0057d",
+    "revision": "9cd94b4b1ebabdfe2ce702e112673c81",
     "url": "/munchbot.io/index.html"
   },
   {
